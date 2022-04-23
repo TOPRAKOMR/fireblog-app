@@ -1,5 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-011 : FireBlog App (RC-11)
 
@@ -7,9 +5,6 @@
 
 Project aims to create a FireBlog App.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -54,10 +49,6 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-![Project 011 Snapshot](fireblog.gif)
-
 ## Objective
 
 Build a Register FireBlog App using ReactJS.
@@ -86,12 +77,8 @@ Build a Register FireBlog App using ReactJS.
 
 - Step 3 : You can use css frameworks like Bootstrap, Semantic UI, Material UI.
 
-- Step 4 : You can view sample app on https://eds-fireblog.herokuapp.com/.
 
-- Step 5 : Add project gif to your project and README.md file.
 
-## Notes
 
-- You can add additional functionalities to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+
